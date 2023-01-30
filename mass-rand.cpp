@@ -17,7 +17,7 @@ main()
 	{
 		for  (int i = 0; i < m; i++)
 		{
-			mas [j] [i] = rand () % 7 -2;
+			mas [j] [i] = rand () % 10 + (-2);
 		
 		}
 	}
